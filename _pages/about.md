@@ -23,7 +23,7 @@ redirect_from:
 
 # 📢 News 
 - *2025.06*: Our paper, [**Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping**](Coming Soon!), is accepted by RAL!
-- *2023.01.16*: Our paper, [**SEIL: Simulation-augmented Equivariant Imitation Learning**](https://saulbatman.github.io/project/seil/), is accepted by ICRA 2023!
+- *2023.01.16*: Our paper, [**SEIL: Simulation-augmented Equivariant Imitation Learning**](https://mingxi-jia.github.io/project/seil/), is accepted by ICRA 2023!
 
 <details>
   <summary> &nbsp; Click to Expand</summary>
@@ -49,7 +49,7 @@ redirect_from:
 <span style="color:black">RAL 2025 </span> 
 
 <!-- <span style="color:grey">In Submission</span> -->
-[**Paper**](https://arxiv.org/abs/2406.15677) [**Project**](https://saulbatman.github.io/gem_page/) 
+[**Paper**](https://arxiv.org/abs/2406.15677) [**Project**](https://mingxi-jia.github.io/gem_page/) 
 
 </div>
 </div>
