@@ -54,7 +54,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/vhop_rss2025.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/vhop_rss2025.gif' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [V-HOP: Visuo-Haptic 6D Object Pose Tracking](https://arxiv.org/abs/2502.17434)
