@@ -54,9 +54,39 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2024</div><img src='images/imagination.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/vhop_rss2025.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+## [V-HOP: Visuo-Haptic 6D Object Pose Tracking](https://arxiv.org/abs/2502.17434)
+
+Hongyu Li, **Mingxi Jia**, Tuluhan Akbulut, Yu Xiang, George Konidaris, Srinath Sridhar
+
+<span style="color:black">RSS 2025 </span> 
+
+<!-- <span style="color:grey">In Submission</span> -->
+[**Paper**](https://arxiv.org/abs/2502.17434) [**Project**](https://ivl.cs.brown.edu/research/v-hop.html) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/coil_rss2025.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Optimal Interactive Learning on the Job via Facility Location Planning](https://arxiv.org/abs/2505.00490)
+
+Shivam Vats, Michelle Zhao, Patrick Callaghan, **Mingxi Jia**, Maxim Likhachev, Oliver Kroemer, George Konidaris
+
+<span style="color:black">RSS 2025 </span> 
+
+<!-- <span style="color:grey">In Submission</span> -->
+[**Paper**](https://arxiv.org/abs/2505.00490) [**Project**](https://roboticsconference.org/program/papers/87/) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2024</div><img src='images/imagination.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 ## [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://arxiv.org/abs/2406.11740)
 
 Haojie Huang, Karl Schmeckpeper\*, Dian Wang\*, Ondrej Biza\*, Yaoyao Qian, Haotian Liu, **Mingxi Jia**, Robert Platt, Robin Walters  
