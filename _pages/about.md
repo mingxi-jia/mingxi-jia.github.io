@@ -124,7 +124,7 @@ Dian Wang, Xupeng Zhu, Jung Yeon Park, **Mingxi Jia**, Guanang Su, Robert Platt,
 <span style="color:black">ICRA 2023 </span> 
 
 <!-- <span style="color:grey">In Submission</span> -->
-[**Paper**](https://arxiv.org/abs/2211.00194) [**Project**](https://saulbatman.github.io/project/seil/) 
+[**Paper**](https://arxiv.org/abs/2211.00194) [**Project**](https://mingxi-jia.github.io/project/seil/) 
 
 </div>
 </div>
