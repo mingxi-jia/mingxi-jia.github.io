@@ -19,7 +19,7 @@ redirect_from:
 
 # About 
 
-👋 Hi, I’m Mingxi Jia. I am a Ph.D. student in Computer Science at Brown University, advised by Professor Stefanie Tellex. I’m interested in building general-purpose learning-based robot manipulation algorithms. Before Brown, I got my master's degree in Robotics (Computer Science concentration) from Northeastern University, Boston, where I was fortunate to work with Professor Robert Platt. I received my Bachelor's degree (in Mechanical Design, Manufacturing, and its Automation) at Beijing University of Chemical Technology (BUCT). Please feel free to send me an email via mingxi_jia@brown.edu if you have any questions!
+👋 Hi, I’m Mingxi Jia. I am a Ph.D. student in Computer Science at Brown University, advised by Professor Stefanie Tellex. My research focuses on developing general-purpose, learning-based algorithms for robot manipulation, with an emphasis on leveraging geometric structure and human video data to improve sample efficiency and scalability. Before Brown, I got my master's degree in Robotics (Computer Science concentration) from Northeastern University, Boston, where I was fortunate to work with Professor Robert Platt and Professor Robin Walters. I received my Bachelor's degree (in Mechanical Design, Manufacturing, and its Automation) at Beijing University of Chemical Technology (BUCT). Please feel free to email me at mingxi_jia@brown.edu if you have any questions!
 
 # 📢 News 
 - *2025.06*: Our paper, [**Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping**](Coming Soon!), is accepted by RAL!
@@ -39,6 +39,36 @@ redirect_from:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2025</div><img src='images/equidiff.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Equivariant Diffusion Policy for Sample-Efficient Robotic Manipulation](https://journals.sagepub.com/doi/pdf/10.1177/02783649261424445)
+
+Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Xupeng Zhu, Boce Hu, **Mingxi Jia**, Jiuguang Wang, Robin Walters, Robert Platt
+
+<span style="color:black">IJRR 2026 </span> 
+
+<!-- <span style="color:grey">In Submission</span> -->
+[**Paper**](https://journals.sagepub.com/doi/pdf/10.1177/02783649261424445) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2025</div><img src='images/silvr.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Self-Improving Loops for Visual Robotic Planning](https://diffusion-supervision.github.io/silvr/)
+
+Calvin Luo$$^*$$, Zilai Zeng$$^*$$, **Mingxi Jia**, Yilun Du, Chen Sun
+
+<span style="color:black">ICLR 2026 </span> 
+
+<!-- <span style="color:grey">In Submission</span> -->
+[**Project**](https://diffusion-supervision.github.io/silvr/) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2025</div><img src='images/gem.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,6 +80,21 @@ redirect_from:
 
 <!-- <span style="color:grey">In Submission</span> -->
 [**Paper**](https://arxiv.org/abs/2406.15677) [**Project**](https://mingxi-jia.github.io/gem_page/) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2025</div><img src='images/residual_rl.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Accelerating Residual Reinforcement Learning with Uncertainty Estimation](https://arxiv.org/abs/2506.17564)
+
+Lakshita Dodeja, Karl Schmeckpeper, Shivam Vats, Thomas Weng, **Mingxi Jia**, George Konidaris, Stefanie Tellex
+
+<span style="color:black">RAL 2025 </span> 
+
+<!-- <span style="color:grey">In Submission</span> -->
+[**Paper**](https://arxiv.org/abs/2506.17564) [**Project**](https://lakshitadodeja.github.io/uncertainty-aware-residual-rl/) 
 
 </div>
 </div>
