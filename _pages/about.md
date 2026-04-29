@@ -22,7 +22,7 @@ redirect_from:
 👋 Hi, I’m Mingxi Jia. I am a Ph.D. student in Computer Science at Brown University, advised by Professor Stefanie Tellex. My research focuses on developing general-purpose, learning-based algorithms for robot manipulation, with an emphasis on leveraging geometric structure and human video data to improve sample efficiency and scalability. Before Brown, I got my master's degree in Robotics (Computer Science concentration) from Northeastern University, Boston, where I was fortunate to work with Professor Robert Platt and Professor Robin Walters. I received my Bachelor's degree (in Mechanical Design, Manufacturing, and its Automation) at Beijing University of Chemical Technology (BUCT). Please feel free to email me at mingxi_jia@brown.edu if you have any questions!
 
 # 📢 News 
-- *2025.06*: Our paper, [**Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping**](Coming Soon!), is accepted by RAL!
+- *2025.06*: Our paper, [**Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping**](https://mingxi-jia.github.io/gem_page/), is accepted by RAL!
 - *2023.01.16*: Our paper, [**SEIL: Simulation-augmented Equivariant Imitation Learning**](https://mingxi-jia.github.io/project/seil/), is accepted by ICRA 2023!
 
 <details>
