@@ -39,7 +39,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2025</div><img src='images/equidiff.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJRR 2026</div><img src='images/equidiff.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [Equivariant Diffusion Policy for Sample-Efficient Robotic Manipulation](https://journals.sagepub.com/doi/pdf/10.1177/02783649261424445)
@@ -54,7 +54,7 @@ Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL 2025</div><img src='images/silvr.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/silvr.gif' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [Self-Improving Loops for Visual Robotic Planning](https://diffusion-supervision.github.io/silvr/)
