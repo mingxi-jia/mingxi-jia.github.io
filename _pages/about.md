@@ -19,9 +19,11 @@ redirect_from:
 
 # About 
 
-👋 Hi, I’m Mingxi Jia. I am a Ph.D. student in Computer Science at Brown University, advised by Professor Stefanie Tellex. My research focuses on developing general-purpose, learning-based algorithms for robot manipulation, with an emphasis on leveraging geometric structure and human video data to improve sample efficiency and scalability. Before Brown, I got my master's degree in Robotics (Computer Science concentration) from Northeastern University, Boston, where I was fortunate to work with Professor Robert Platt and Professor Robin Walters. I received my Bachelor's degree (in Mechanical Design, Manufacturing, and its Automation) at Beijing University of Chemical Technology (BUCT). Please feel free to email me at mingxi_jia@brown.edu if you have any questions!
+👋 Hi, I’m Mingxi Jia. I am a fourth-year Ph.D. student in Computer Science at Brown University, advised by Professor Stefanie Tellex. My research focuses on developing general-purpose, learning-based algorithms for robot manipulation, with an emphasis on leveraging geometric structure and human video data to improve sample efficiency and scalability. Before Brown, I got my master's degree in Robotics (Computer Science concentration) from Northeastern University, Boston, where I was fortunate to work with Professor Robert Platt and Professor Robin Walters. I received my Bachelor's degree (in Mechanical Design, Manufacturing, and its Automation) at Beijing University of Chemical Technology (BUCT). Please feel free to email me at mingxi_jia@brown.edu if you have any questions!
 
 # 📢 News 
+- *2026.09*: Check out our new work, [**DUO Policy: Learning Fine-Grained Manipulation from Human Videos via Dual-Actor Policy**](https://mingxi-jia.github.io/duo_policy_site/)!
+- *2026.06*: Our work, [**Learning Efficient and Robust Language-Conditioned Manipulation Using Textual-Visual Relevancy and Equivariant Language Mapping**](https://mingxi-jia.github.io/gem_page/), has been selected as one of only five Honorable Mention winners from among more than 1,700 papers published in RA-L during 2025. The award was announced at the ICRA 2026 Award Ceremony, in Vienna, Austria.
 - *2025.06*: Our paper, [**Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping**](https://mingxi-jia.github.io/gem_page/), is accepted by RAL!
 - *2023.01.16*: Our paper, [**SEIL: Simulation-augmented Equivariant Imitation Learning**](https://mingxi-jia.github.io/project/seil/), is accepted by ICRA 2023!
 
@@ -38,6 +40,20 @@ redirect_from:
 </details>
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/duo_policy.jpg' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [DUO Policy: Learning Fine-Grained Manipulation from Human Videos via Dual-Actor Policy](https://mingxi-jia.github.io/duo_policy_site/)
+
+**Mingxi Jia**, Patton Yin, Haojie Huang, Ivy Xiao He, Xuanru Liu, Gefei Liu, Dian Wang, Stefanie Tellex
+
+<span style="color:grey">Under Review</span> 
+
+[**Project**](https://mingxi-jia.github.io/duo_policy_site/) / [**Paper**](https://drive.google.com/file/d/1VCyWh4Fu32PReUp3rh0L2i52juAcGGtv/view?usp=sharing) / [**Video**](https://drive.google.com/file/d/1ft6BLfsjm0FJb7jDBn5Ic7ctmpJv5d9j/view?usp=drive_link)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJRR 2026</div><img src='images/equidiff.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,7 +92,7 @@ Calvin Luo$$^*$$, Zilai Zeng$$^*$$, **Mingxi Jia**, Yilun Du, Chen Sun
 
 **Mingxi Jia**$$^*$$, Haojie Huang$$^*$$, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex
 
-<span style="color:black">RAL 2025 </span> 
+<span style="color:black">RAL 2025 </span> <span style="color:red">**RA-L Best Paper - Honorable Mention**</span>
 
 <!-- <span style="color:grey">In Submission</span> -->
 [**Paper**](https://arxiv.org/abs/2406.15677) [**Project**](https://mingxi-jia.github.io/gem_page/) 
