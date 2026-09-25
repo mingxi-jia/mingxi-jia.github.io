@@ -19,7 +19,7 @@ redirect_from:
 
 # About 
 
-👋 Hi, I’m Mingxi Jia. I am a fourth-year Ph.D. student in Computer Science at Brown University, advised by Professor Stefanie Tellex. My research focuses on developing general-purpose, learning-based algorithms for robot manipulation, with an emphasis on leveraging geometric structure and human video data to improve sample efficiency and scalability. Before Brown, I got my master's degree in Robotics (Computer Science concentration) from Northeastern University, Boston, where I was fortunate to work with Professor Robert Platt and Professor Robin Walters. I received my Bachelor's degree (in Mechanical Design, Manufacturing, and its Automation) at Beijing University of Chemical Technology (BUCT). Please feel free to email me at mingxi_jia@brown.edu if you have any questions!
+👋 Hi, I’m Mingxi Jia. I am a fourth-year Ph.D. student in Computer Science at Brown University, advised by Professor [Stefanie Tellex](https://h2r.cs.brown.edu/people/). My research focuses on developing general-purpose, learning-based algorithms for robot manipulation, with an emphasis on leveraging geometric structure and human video data to improve sample efficiency and scalability. Before Brown, I got my master's degree in Robotics (Computer Science concentration) from Northeastern University, Boston, where I was fortunate to work with Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) and Professor [Robin Walters](https://www.robinwalters.com/index.html). I received my Bachelor's degree (in Mechanical Design, Manufacturing, and its Automation) at Beijing University of Chemical Technology (BUCT). Please feel free to email me at mingxi_jia@brown.edu if you have any questions!
 
 # 📢 News 
 - *2026.09*: Check out our new work, [**DUO Policy: Learning Fine-Grained Manipulation from Human Videos via Dual-Actor Policy**](https://mingxi-jia.github.io/duo_policy_site/)!
@@ -46,7 +46,7 @@ redirect_from:
 
 ## [DUO Policy: Learning Fine-Grained Manipulation from Human Videos via Dual-Actor Policy](https://mingxi-jia.github.io/duo_policy_site/)
 
-**Mingxi Jia**, Patton Yin, Haojie Huang, Ivy Xiao He, Xuanru Liu, Gefei Liu, Dian Wang, Stefanie Tellex
+[**Mingxi Jia**](https://mingxi-jia.github.io/), [Patton Yin](https://pattonyin.github.io/), [Haojie Huang](https://haojhuang.github.io/), [Ivy Xiao He](https://ivyyyy24381.github.io/), [Xuanru Liu](https://www.linkedin.com/in/rosellaliu), [Gefei Liu](https://estherliu02.github.io/), [Dian Wang](https://www.dianwang.io/), [Stefanie Tellex](https://h2r.cs.brown.edu/people/)
 
 <span style="color:grey">Under Review</span> 
 
@@ -60,7 +60,7 @@ redirect_from:
 
 ## [Equivariant Diffusion Policy for Sample-Efficient Robotic Manipulation](https://journals.sagepub.com/doi/pdf/10.1177/02783649261424445)
 
-Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Xupeng Zhu, Boce Hu, **Mingxi Jia**, Jiuguang Wang, Robin Walters, Robert Platt
+[Dian Wang](https://www.dianwang.io/), Stephen Hart, David Surovik, Tarik Kelestemur, [Haojie Huang](https://haojhuang.github.io/), Haibo Zhao, Mark Yeatman, Xupeng Zhu, Boce Hu, [**Mingxi Jia**](https://mingxi-jia.github.io/), Jiuguang Wang, [Robin Walters](https://www.robinwalters.com/index.html), [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/)
 
 <span style="color:black">IJRR 2026 </span> 
 
@@ -75,7 +75,7 @@ Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zh
 
 ## [Self-Improving Loops for Visual Robotic Planning](https://diffusion-supervision.github.io/silvr/)
 
-Calvin Luo$$^*$$, Zilai Zeng$$^*$$, **Mingxi Jia**, Yilun Du, Chen Sun
+Calvin Luo$$^*$$, Zilai Zeng$$^*$$, [**Mingxi Jia**](https://mingxi-jia.github.io/), Yilun Du, Chen Sun
 
 <span style="color:black">ICLR 2026 </span> 
 
@@ -90,7 +90,7 @@ Calvin Luo$$^*$$, Zilai Zeng$$^*$$, **Mingxi Jia**, Yilun Du, Chen Sun
 
 ## [Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping](https://arxiv.org/abs/2406.15677)
 
-**Mingxi Jia**$$^*$$, Haojie Huang$$^*$$, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, Dian Wang, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex
+[**Mingxi Jia**](https://mingxi-jia.github.io/)$$^*$$, [Haojie Huang](https://haojhuang.github.io/)$$^*$$, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, [Dian Wang](https://www.dianwang.io/), Jason Xinyu Liu, [Robin Walters](https://www.robinwalters.com/index.html), [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/), [Stefanie Tellex](https://h2r.cs.brown.edu/people/)
 
 <span style="color:black">RAL 2025 </span> <span style="color:red">**RA-L Best Paper - Honorable Mention**</span>
 
@@ -105,7 +105,7 @@ Calvin Luo$$^*$$, Zilai Zeng$$^*$$, **Mingxi Jia**, Yilun Du, Chen Sun
 
 ## [Accelerating Residual Reinforcement Learning with Uncertainty Estimation](https://arxiv.org/abs/2506.17564)
 
-Lakshita Dodeja, Karl Schmeckpeper, Shivam Vats, Thomas Weng, **Mingxi Jia**, George Konidaris, Stefanie Tellex
+Lakshita Dodeja, Karl Schmeckpeper, Shivam Vats, Thomas Weng, [**Mingxi Jia**](https://mingxi-jia.github.io/), George Konidaris, [Stefanie Tellex](https://h2r.cs.brown.edu/people/)
 
 <span style="color:black">RAL 2025 </span> 
 
@@ -120,7 +120,7 @@ Lakshita Dodeja, Karl Schmeckpeper, Shivam Vats, Thomas Weng, **Mingxi Jia**, Ge
 
 ## [V-HOP: Visuo-Haptic 6D Object Pose Tracking](https://arxiv.org/abs/2502.17434)
 
-Hongyu Li, **Mingxi Jia**, Tuluhan Akbulut, Yu Xiang, George Konidaris, Srinath Sridhar
+Hongyu Li, [**Mingxi Jia**](https://mingxi-jia.github.io/), Tuluhan Akbulut, Yu Xiang, George Konidaris, Srinath Sridhar
 
 <span style="color:black">RSS 2025 </span> 
 
@@ -135,7 +135,7 @@ Hongyu Li, **Mingxi Jia**, Tuluhan Akbulut, Yu Xiang, George Konidaris, Srinath 
 
 ## [Optimal Interactive Learning on the Job via Facility Location Planning](https://arxiv.org/abs/2505.00490)
 
-Shivam Vats, Michelle Zhao, Patrick Callaghan, **Mingxi Jia**, Maxim Likhachev, Oliver Kroemer, George Konidaris
+Shivam Vats, Michelle Zhao, Patrick Callaghan, [**Mingxi Jia**](https://mingxi-jia.github.io/), Maxim Likhachev, Oliver Kroemer, George Konidaris
 
 <span style="color:black">RSS 2025 </span> 
 
@@ -150,7 +150,7 @@ Shivam Vats, Michelle Zhao, Patrick Callaghan, **Mingxi Jia**, Maxim Likhachev, 
   
 ## [IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies](https://arxiv.org/abs/2406.11740)
 
-Haojie Huang, Karl Schmeckpeper\*, Dian Wang\*, Ondrej Biza\*, Yaoyao Qian, Haotian Liu, **Mingxi Jia**, Robert Platt, Robin Walters  
+[Haojie Huang](https://haojhuang.github.io/), Karl Schmeckpeper\*, [Dian Wang](https://www.dianwang.io/)\*, Ondrej Biza\*, Yaoyao Qian, Haotian Liu, [**Mingxi Jia**](https://mingxi-jia.github.io/), [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/), [Robin Walters](https://www.robinwalters.com/index.html)  
 
 <span style="color:black">CoRL 2024 </span> 
 
@@ -165,7 +165,7 @@ Haojie Huang, Karl Schmeckpeper\*, Dian Wang\*, Ondrej Biza\*, Yaoyao Qian, Haot
 
 ## [A General Theory of Correct, Incorrect, and Extrinsic Equivariance](https://arxiv.org/pdf/2303.04745.pdf)
 
-Dian Wang, Xupeng Zhu, Jung Yeon Park, **Mingxi Jia**, Guanang Su, Robert Platt, Robin Walters  
+[Dian Wang](https://www.dianwang.io/), Xupeng Zhu, Jung Yeon Park, [**Mingxi Jia**](https://mingxi-jia.github.io/), Guanang Su, [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/), [Robin Walters](https://www.robinwalters.com/index.html)  
 
 <span style="color:black">NeurIPS 2023 </span> 
 
@@ -180,7 +180,7 @@ Dian Wang, Xupeng Zhu, Jung Yeon Park, **Mingxi Jia**, Guanang Su, Robert Platt,
 
 ## [SEIL: Simulation-augmented Equivariant Imitation Learning](https://arxiv.org/abs/2211.00194)
 
-**Mingxi Jia**$$^*$$, Dian Wang$$^*$$, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt
+[**Mingxi Jia**](https://mingxi-jia.github.io/)$$^*$$, [Dian Wang](https://www.dianwang.io/)$$^*$$, Guanang Su, David Klee, Xupeng Zhu, [Robin Walters](https://www.robinwalters.com/index.html), [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/)
 
 <span style="color:black">ICRA 2023 </span> 
 
@@ -195,7 +195,7 @@ Dian Wang, Xupeng Zhu, Jung Yeon Park, **Mingxi Jia**, Guanang Su, Robert Platt,
 
 ## [On-Robot Learning With Equivariant Models](https://arxiv.org/pdf/2203.04923.pdf)
 
-Dian Wang, **Mingxi Jia**, Xupeng Zhu, Robin Walters, Robert Platt  
+[Dian Wang](https://www.dianwang.io/), [**Mingxi Jia**](https://mingxi-jia.github.io/), Xupeng Zhu, [Robin Walters](https://www.robinwalters.com/index.html), [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/)  
 
 <span style="color:black">CoRL 2022 </span> 
 
@@ -210,7 +210,7 @@ Dian Wang, **Mingxi Jia**, Xupeng Zhu, Robin Walters, Robert Platt
 
 ## [BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework](https://arxiv.org/pdf/2203.04923.pdf)
 
-Dian Wang\*, Colin Kohler\*, Xupeng Zhu, **Mingxi Jia**, Robert Platt    
+[Dian Wang](https://www.dianwang.io/)\*, Colin Kohler\*, Xupeng Zhu, [**Mingxi Jia**](https://mingxi-jia.github.io/), [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/)    
 
 <span style="color:black">ISRR 2022 </span> 
 
