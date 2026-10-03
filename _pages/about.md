@@ -24,6 +24,7 @@ redirect_from:
 # 📢 News 
 - *2026.09*: Our work, [**GEM**](https://mingxi-jia.github.io/gem_page/), won the **Best Paper Award** at the IROS 2026 workshop on [Compositional and Modular Learning in the Era of Scaling in Robotics](https://compositional-robotics.github.io/)!
 - *2026.09*: Check out our new work, [**DUO Policy: Learning Fine-Grained Manipulation from Human Videos via Dual-Actor Policy**](https://mingxi-jia.github.io/duo_policy_site/)!
+- *2026.06*: I started my internship at [Toyota Research Institute](https://www.tri.global/)!
 - *2026.06*: Our work, [**Learning Efficient and Robust Language-Conditioned Manipulation Using Textual-Visual Relevancy and Equivariant Language Mapping**](https://mingxi-jia.github.io/gem_page/), has been selected as one of only five Honorable Mention winners from among more than 1,700 papers published in RA-L during 2025. The award was announced at the ICRA 2026 Award Ceremony, in Vienna, Austria.
 
 <details>
