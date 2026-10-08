@@ -52,7 +52,7 @@ redirect_from:
 
 <span style="color:grey">Under Review</span> 
 
-[**Project**](https://mingxi-jia.github.io/duo_policy_site/) / [**Paper**](https://drive.google.com/file/d/1VCyWh4Fu32PReUp3rh0L2i52juAcGGtv/view?usp=sharing) / [**Video**](https://drive.google.com/file/d/1ft6BLfsjm0FJb7jDBn5Ic7ctmpJv5d9j/view?usp=drive_link)
+[**Project**](https://mingxi-jia.github.io/duo_policy_site/) / [**Paper**](papers/duo_policy.pdf) / [**Video**](https://drive.google.com/file/d/1ft6BLfsjm0FJb7jDBn5Ic7ctmpJv5d9j/view?usp=drive_link)
 
 </div>
 </div>
