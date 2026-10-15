@@ -22,7 +22,7 @@ redirect_from:
 👋 Hi, I’m Mingxi Jia. I am a fourth-year Ph.D. student in Computer Science at Brown University, advised by Professor [Stefanie Tellex](https://h2r.cs.brown.edu/people/). My research focuses on developing general-purpose, learning-based algorithms for robot manipulation, with an emphasis on leveraging geometric structure and human video data to improve sample efficiency and scalability. Before Brown, I got my master's degree in Robotics (Computer Science concentration) from Northeastern University, Boston, where I was fortunate to work with Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) and Professor [Robin Walters](https://www.robinwalters.com/index.html). I received my Bachelor's degree (in Mechanical Design, Manufacturing, and its Automation) at Beijing University of Chemical Technology (BUCT). Please feel free to email me at mingxi_jia@brown.edu if you have any questions!
 
 # 📢 News 
-- *2026.09*: Our work, [**GEM**](https://mingxi-jia.github.io/gem_page/), won the **Best Paper Award** at the IROS 2026 workshop on [Compositional and Modular Learning in the Era of Scaling in Robotics](https://compositional-robotics.github.io/)!
+- *2026.09*: Our work, [**Language Steerable Kernels**](https://mingxi-jia.github.io/gem_page/), won the **Best Paper Award (Third Place)** at the IROS 2026 workshop on [Compositional and Modular Learning in the Era of Scaling in Robotics](https://compositional-robotics.github.io/)!
 - *2026.09*: Check out our new work, [**DUO Policy: Learning Fine-Grained Manipulation from Human Videos via Dual-Actor Policy**](https://mingxi-jia.github.io/duo_policy_site/)!
 - *2026.06*: I started my internship at [Toyota Research Institute](https://www.tri.global/)!
 - *2026.06*: Our work, [**Learning Efficient and Robust Language-Conditioned Manipulation Using Textual-Visual Relevancy and Equivariant Language Mapping**](https://mingxi-jia.github.io/gem_page/), has been selected as one of only five Honorable Mention winners from among more than 1,700 papers published in RA-L during 2025. The award was announced at the ICRA 2026 Award Ceremony, in Vienna, Austria.
@@ -53,6 +53,34 @@ redirect_from:
 <span style="color:grey">Under Review</span> 
 
 [**Project**](https://mingxi-jia.github.io/duo_policy_site/) / [**Paper**](papers/duo_policy.pdf) / [**Video**](https://drive.google.com/file/d/1ft6BLfsjm0FJb7jDBn5Ic7ctmpJv5d9j/view?usp=drive_link)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/amp.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Action Map Policy: Learning 3D Closed-loop Manipulation via Pixel Classification](https://haojhuang.github.io/amp_page/)
+
+[Haojie Huang](https://haojhuang.github.io/), Zhang Ye, Linfeng Zhao, Boce Hu, [**Mingxi Jia**](https://mingxi-jia.github.io/), Yu Qi, Ahmed Agha, [Dian Wang](https://www.dianwang.io/), [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/), [Robin Walters](https://www.robinwalters.com/index.html)
+
+<span style="color:grey">Preprint 2026</span> 
+
+[**Paper**](https://arxiv.org/abs/2607.10706) [**Project**](https://haojhuang.github.io/amp_page/) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/pix2act.gif' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Pix2Act: Image-Space Manipulation Policies with Equivariant Augmentation](https://haojhuang.github.io/pix2act_page/)
+
+[Haojie Huang](https://haojhuang.github.io/), Linfeng Zhao, Haotian Liu, Zhang Ye, Si-Yuan Huang, [**Mingxi Jia**](https://mingxi-jia.github.io/), Boce Hu, Fangzhou Lin, Yu Qi, [Dian Wang](https://www.dianwang.io/), [Robin Walters](https://www.robinwalters.com/index.html), [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/)
+
+<span style="color:grey">Preprint 2026</span> 
+
+[**Paper**](https://arxiv.org/abs/2607.11167) [**Project**](https://haojhuang.github.io/pix2act_page/) 
 
 </div>
 </div>
@@ -95,7 +123,7 @@ Calvin Luo$$^*$$, Zilai Zeng$$^*$$, [**Mingxi Jia**](https://mingxi-jia.github.i
 [**Mingxi Jia**](https://mingxi-jia.github.io/)$$^*$$, [Haojie Huang](https://haojhuang.github.io/)$$^*$$, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, [Dian Wang](https://www.dianwang.io/), Jason Xinyu Liu, [Robin Walters](https://www.robinwalters.com/index.html), [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/), [Stefanie Tellex](https://h2r.cs.brown.edu/people/)
 
 <span style="color:black">RAL 2025 </span> <span style="color:red">**RA-L Best Paper - Honorable Mention**</span><br>
-<span style="color:red">**[IROS 2026 Workshop Best Paper Award](https://compositional-robotics.github.io/)**</span>
+<span style="color:red">**[IROS 2026 Workshop Best Paper Award (Third Place)](https://compositional-robotics.github.io/)**</span>
 
 <!-- <span style="color:grey">In Submission</span> -->
 [**Paper**](https://arxiv.org/abs/2406.15677) [**Project**](https://mingxi-jia.github.io/gem_page/) 
